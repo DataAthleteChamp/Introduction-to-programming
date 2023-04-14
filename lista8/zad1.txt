@@ -1,0 +1,12 @@
+Lista 8
+Pliki i foldery.
+Wst²ep do programowania - laboratorium
+Inÿzynieria systemów WIT PWr1. (3 pkt) Napisz program (wybieraja²c jeden z dwóch prezentowanych sposobów
+na wyk³adzie), który w pliku tekstowym o nazwie zad1.txt zapisze
+wprowadzany przez uÿzytkownika tekst. Je´sli plik tekstowy o tej nazwie nie
+istnieje to zostanie utworzony. Zapisywanie do pliku powinno zosta´c zako´nczone
+po napotkaniu pustego wiersza. Nast²epnie wywo³aj program jeszcze
+dwa razy wpisuja²c za kazÿdym razem inne teksty jako uzÿytkownik. Finalnie
+powinny pozosta³e dwa teksty zosta´c dopisane do utworzonego za pierwszym
+razem pliku.
+przyk³adowuy tekst
